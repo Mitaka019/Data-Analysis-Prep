@@ -1,0 +1,4 @@
+
+-- TABLE DESIGN THAT WORKS FOR YOU
+
+-- 
